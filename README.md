@@ -1,6 +1,6 @@
 # Machine Learning
 Repository ini berisi project-project yang saya kerjakan.
-menggunakanLibraries/ packages 
+menggunakan Libraries/ packages 
  # pandas
  # Sklearn
  # numpy
